@@ -1,0 +1,166 @@
+*{
+    font-family: montserrat;
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box;
+    /*reset de estilos, sempre zerar*/
+}
+
+
+header{
+    margin: 44px 0 144px 76px ; 
+
+}
+
+.link-header {
+
+    font-size: 24px;
+    font-weight: 600px;
+    line-height: 30px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+
+}
+
+img{
+    
+    width:568px;
+    height: 500px;
+    margin-left: 125px ;
+    display: inline-block;
+
+}
+div{
+    display: inline-block;
+    margin-left: 86px;
+   
+   
+
+}
+
+.button-header{
+
+    width: 130px;
+    height: 41px;
+    border-radius: 50px;
+    border:none;
+    background-color: #665AE1;
+    font-size: 24px;
+    font-weight: 600px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-top: 44px;
+    cursor: pointer;
+    
+
+}
+
+.title-we-care{
+    color:  #515151;
+    width: 513px;
+    height: 122px;
+    font-weight: 900px;
+    font-size: 100px;
+    line-height: 121.9px;
+  
+
+}
+ 
+h2{
+    width: 448px;
+    height: 61px;
+   font-size: 58px;
+   font-weight: lighter;
+   color:#515151
+    
+}
+
+#botton-explorer{
+    
+    background-color: #ADFF00;
+    border-radius: 20px;
+    width: 239px;
+    height: 64px;
+    font-weight: bolder;
+    font-size: 28px;
+    line-height: 35px;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+
+
+}
+
+p{
+    width: 515px;
+    font-weight: 500;
+    size: 24px;
+    line-height: 30px;
+    color:#848484;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+ @media screen and (max-width:900px){
+
+    
+    header{
+        display: none;
+    }
+    
+    p{
+        display: none;
+    }
+
+    img{
+
+        display: block;
+        width: 354px;
+        height: auto;
+        margin:auto;
+        margin-top: 149px;
+        
+    }
+
+    .title-we-care{
+        
+        margin-top: 24px;
+        color: #515151;
+        width: auto;
+        height: 52px;
+        font-weight: 900;
+        font-size: 50px;
+        line-height: 60px;
+        display: block;
+
+    }
+
+    h2{
+        margin-top: 24px;
+        width: 232px;
+        height: 37px;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 36px;
+        
+      
+    }
+    
+    #botton-explorer{
+
+        margin-top: 17px;
+        width: 239px;
+        height: 64px;
+        width: 239px;
+        height: 64px;
+        position: absolute;
+        border-radius: 30px;
+        
+        
+    }
+
+    
+    
+
+ }  
