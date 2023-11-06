@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<p>Aplicado responsividade no projeto</p> 
+<p>Aplicado responsividade ao projeto</p> 
 <br>
 <img src="https://github.com/RomulloOliveira/We-Care/blob/main/Wecare.png?raw=true" alt="img-desktop-propaganda">
 
